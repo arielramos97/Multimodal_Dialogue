@@ -10,7 +10,7 @@ Sliwinski, Jennifer Hamet Bagnou, Xuan Nga Cao, Katia Youssov, Emmanuel Dupoux, 
 **[The return of the chatbots.](https://ecampus.paris-saclay.fr/pluginfile.php/1408082/course/section/240851/The_return_of_the_chatbots.pdf)**   
 by Robert Dale.
 
-(For the ‘The return of the chatbots’ paper, a Google Colab notebook is also provided to demonstrate a short experiment in which a virtual assistant replies to some requests.
+For the ‘The return of the chatbots’ paper, a Google Colab notebook is also provided to demonstrate a short experiment in which a virtual assistant replies to some requests.
 
 ## Student
 
